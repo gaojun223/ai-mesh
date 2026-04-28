@@ -1,0 +1,13 @@
+{
+  "name": "github-actions-avatar",
+  "type": "avatar",
+  "platform": "github-actions",
+  "repo": "gaojun223/telegram-bot-daemon",
+  "workflow": "trigger-daemon.yml",
+  "status": "online",
+  "since": "2026-04-29T01:40:00Z",
+  "role": "telegram-bot, persian-reply, customer-service",
+  "capabilities": ["telegram_api", "http_outbound"],
+  "latency_ms": 2000,
+  "failover_group": "telegram"
+}
