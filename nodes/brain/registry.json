@@ -1,0 +1,12 @@
+{
+  "name": "brain",
+  "type": "core",
+  "platform": "tencent-cloud",
+  "location": "Shanghai, China",
+  "specs": {"cpu": 8, "ram_gb": 30, "disk_gb": 315},
+  "outbound_internet": false,
+  "status": "online",
+  "since": "2026-04-29T01:43:00Z",
+  "role": "orchestrator, planner, memory-sync",
+  "capabilities": ["code_execution", "web_scraping", "file_management", "task_scheduling"]
+}
